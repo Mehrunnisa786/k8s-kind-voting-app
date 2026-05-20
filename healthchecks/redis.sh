@@ -1,3 +1,5 @@
+#redis shell script
+
 #!/bin/sh
 set -eo pipefail
 

@@ -1,3 +1,4 @@
+#Using slim image for node
 FROM node:18-slim
 
 # add curl for healthcheck
