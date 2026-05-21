@@ -17,9 +17,9 @@ This guide covers the steps to:
 ## Architecture
 <img width="2378" height="898" alt="image" src="https://github.com/user-attachments/assets/7ace77e2-5cf3-4676-a14e-081f48b2c7b4" />
 
-![Architecture diagram](k8s-kind-voting-app.png)
-
 ## Observability
+<img width="2934" height="1532" alt="image" src="https://github.com/user-attachments/assets/e72bcdb4-894d-4142-a75d-d46a9336f492" />
+<img width="2920" height="1436" alt="image" src="https://github.com/user-attachments/assets/3591a14c-8426-4699-8b5f-9dfac4b60b45" />
 
 ![Grafana diagram](grafana.png)
 ![Prometheus diagram](prometheus.png)
