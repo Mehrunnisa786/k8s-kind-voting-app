@@ -15,6 +15,7 @@ This guide covers the steps to:
 
 
 ## Architecture
+<img width="2378" height="898" alt="image" src="https://github.com/user-attachments/assets/7ace77e2-5cf3-4676-a14e-081f48b2c7b4" />
 
 ![Architecture diagram](k8s-kind-voting-app.png)
 
