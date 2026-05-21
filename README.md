@@ -21,9 +21,6 @@ This guide covers the steps to:
 <img width="2934" height="1532" alt="image" src="https://github.com/user-attachments/assets/e72bcdb4-894d-4142-a75d-d46a9336f492" />
 <img width="2920" height="1436" alt="image" src="https://github.com/user-attachments/assets/3591a14c-8426-4699-8b5f-9dfac4b60b45" />
 
-![Grafana diagram](grafana.png)
-![Prometheus diagram](prometheus.png)
-
 * A front-end web app in [Python](/vote) which lets you vote between two options
 * A [Redis](https://hub.docker.com/_/redis/) which collects new votes
 * A [.NET](/worker/) worker which consumes votes and stores them in…
